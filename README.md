@@ -13,6 +13,12 @@ Due to its GUI form pepole find it very easy to use.
 
 You should download and install msyql before running this software.It wont work if you had't downloaded mysql.
 
+# Software Format
+
+If you want Fizzy in software format,download the software from the google drive link given below.
+
+https://drive.google.com/file/d/1B4hkAqVdlyS0wCPbZr5_LQLDXy9flvRT/view?usp=sharing
+
 # Modules Imported
 
 import mysql.connector,os,tkinter,pandas,pickle
