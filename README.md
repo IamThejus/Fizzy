@@ -23,7 +23,7 @@ import pickle
 
 # Screenshot
 
-For getting credentials
+For getting credentials\n
 ![1](https://user-images.githubusercontent.com/92664795/144005761-1c9bc186-ca22-4578-a898-c63c646824d7.PNG)
 Storing Data
 ![2](https://user-images.githubusercontent.com/92664795/144005772-313ae1ce-52d4-49b5-92d1-4e43d619f601.PNG)
