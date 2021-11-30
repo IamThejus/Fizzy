@@ -15,11 +15,7 @@ You should download and install msyql before running this software.It wont work 
 
 # Modules Imported
 
-import mysql.connector
-import os
-import tkinter
-import pandas
-import pickle
+import mysql.connector,os,tkinter,pandas,pickle
 
 # Screenshot
 
