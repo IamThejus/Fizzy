@@ -87,8 +87,3 @@ def create_folders():
 
 
 
-#create_credentials('1234','Thejus','Developer')
-#print(get_credentials())
-#print(user_script('Hema'))
-#student_details('24','Alna','F','B+','4','1234')
-#show_student_details('1234')
