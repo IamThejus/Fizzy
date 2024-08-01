@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1B4hkAqVdlyS0wCPbZr5_LQLDXy9flvRT/view?usp=shari
 
 import mysql.connector,os,tkinter,pandas,pickle
 
-# Screenshot
+# Screenshots
 
 For getting credentials
 
