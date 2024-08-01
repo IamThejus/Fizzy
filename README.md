@@ -1,6 +1,6 @@
 # Fizzy
 
-Fizzy, a database entry software
+Fizzy, a database entry software.
 
 # Use of this software
 
