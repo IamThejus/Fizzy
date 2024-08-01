@@ -2,7 +2,7 @@
 
 Fizzy, a database entry software.
 
-# Use of this software
+# Use of this software (Fizzy)
 
 Fizzy currently can only be used storing students details.
 I hope in future it can stored any type of data .Its bases on python-mysql connection.So in oder to use this software you must setup mysql.
